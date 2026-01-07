@@ -392,6 +392,10 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
   padding: 4rem 2rem;
   margin-top: 6.5rem;
 
+  @media (min-width: 1393px) {
+    gap: 12rem;
+  }
+
   @media (max-width: ${tx.breakpoints.mobile}) {
     margin-bottom: -5rem;
   }
