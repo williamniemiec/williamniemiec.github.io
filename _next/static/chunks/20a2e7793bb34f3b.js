@@ -378,7 +378,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
   }
 
   @media (max-width: ${tx.breakpoints.mobile}) {
-    padding-top: 26rem;
+    padding-top: 15rem;
   }
 `,tJ=tp.section`
   position: relative;
@@ -472,7 +472,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
   @media screen and (max-width: 887px) {
     width: 35rem;
     position: absolute;
-    top: 6rem;
+    top: 4rem;
     left: calc(50% - 18rem);
     
     img {
