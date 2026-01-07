@@ -9,6 +9,14 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
     outline: none;
     border: none;
     transition: all 0.2s linear;
+    -webkit-user-drag: none;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
   }
 
   html {
@@ -767,7 +775,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
       text-align: center;
     }
   }
-`,rb=({name:e,icon:r})=>(0,t.jsx)(ry,{children:(0,t.jsxs)("div",{className:"info",children:[(0,t.jsx)(rc.default,{src:r,alt:e,width:48,height:48}),(0,t.jsx)("span",{children:e})]})}),rv=({skills:e})=>{let{t:r}=tO();return(0,t.jsxs)(tV,{children:[(0,t.jsx)(tV.WaveDivider,{fillTop:"#fff",fillBottom:tx.colors.primary}),(0,t.jsxs)(rh,{id:"skills",children:[(0,t.jsx)(tV.Title,{color:tx.colors.white,highlightedColor:tx.colors.white,primaryText:r.skills.title,highlightedText:r.skills.titleHighlighted,icon:"fa-laptop-code",className:"scroll-reveal"}),(0,t.jsx)(rg,{className:"container scroll-reveal",children:(0,t.jsx)(rx,{id:"skillsContainer",className:"scroll-reveal",children:e.map((e,r)=>(0,t.jsx)(rb,{name:e.name,icon:e.icon},r))})})]}),(0,t.jsx)(tV.WaveDivider,{fillTop:tx.colors.primaryDark,fillBottom:tx.colors.white})]})},rw=tp.div`
+`,rb=({name:e,icon:r})=>(0,t.jsx)(ry,{children:(0,t.jsxs)("div",{className:"info",children:[(0,t.jsx)(rc.default,{src:r,alt:e,width:48,height:48,draggable:!1}),(0,t.jsx)("span",{children:e})]})}),rv=({skills:e})=>{let{t:r}=tO();return(0,t.jsxs)(tV,{children:[(0,t.jsx)(tV.WaveDivider,{fillTop:"#fff",fillBottom:tx.colors.primary}),(0,t.jsxs)(rh,{id:"skills",children:[(0,t.jsx)(tV.Title,{color:tx.colors.white,highlightedColor:tx.colors.white,primaryText:r.skills.title,highlightedText:r.skills.titleHighlighted,icon:"fa-laptop-code",className:"scroll-reveal"}),(0,t.jsx)(rg,{className:"container scroll-reveal",children:(0,t.jsx)(rx,{id:"skillsContainer",className:"scroll-reveal",children:e.map((e,r)=>(0,t.jsx)(rb,{name:e.name,icon:e.icon},r))})})]}),(0,t.jsx)(tV.WaveDivider,{fillTop:tx.colors.primaryDark,fillBottom:tx.colors.white})]})},rw=tp.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
