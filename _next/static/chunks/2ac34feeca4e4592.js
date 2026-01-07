@@ -532,7 +532,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
       mix-blend-mode: normal;
     }
   }
-`,t9=()=>(0,t.jsx)(t8,{children:(0,t.jsx)(t6.default,{src:"/assets/images/perfil2.png",alt:"William Niemiec - Full-Stack Developer and Ph.D Student at UFRGS",width:300,height:400,className:"tilt",draggable:!1})}),t7=tf.div`
+`,t9=()=>(0,t.jsx)(t8,{children:(0,t.jsx)(t6.default,{src:"/assets/images/perfil2.jpg",alt:"William Niemiec - Full-Stack Developer and Ph.D Student at UFRGS",width:300,height:400,className:"tilt",draggable:!1})}),t7=tf.div`
   display: flex;
   flex: 1;
   flex-direction: column;
