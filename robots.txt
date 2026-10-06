@@ -1,6 +1,4 @@
 User-Agent: *
 Allow: /
-Disallow: /api/
-Disallow: /_next/
 
-Sitemap: http://williamniemiec.github.io/sitemap.xml
+Sitemap: https://williamniemiec.github.io/sitemap.xml

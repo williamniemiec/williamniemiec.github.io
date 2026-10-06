@@ -1,9 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
-<loc>http://williamniemiec.github.io</loc>
-<lastmod>2026-09-25T13:15:51.299Z</lastmod>
-<changefreq>daily</changefreq>
+<loc>https://williamniemiec.github.io/en/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/pt/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/en/research/ai-assisted-discovery-enterprise-system/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/ai-assisted-discovery-enterprise-system/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/ai-assisted-discovery-enterprise-system/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/ai-assisted-discovery-enterprise-system/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/pt/research/ai-assisted-discovery-enterprise-system/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/ai-assisted-discovery-enterprise-system/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/ai-assisted-discovery-enterprise-system/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/ai-assisted-discovery-enterprise-system/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/en/research/generating-mobile-applications-with-llms/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/generating-mobile-applications-with-llms/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/generating-mobile-applications-with-llms/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/generating-mobile-applications-with-llms/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/pt/research/generating-mobile-applications-with-llms/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/generating-mobile-applications-with-llms/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/generating-mobile-applications-with-llms/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/generating-mobile-applications-with-llms/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/en/research/nlp-mhealth-nursing-taxonomies/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/nlp-mhealth-nursing-taxonomies/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/nlp-mhealth-nursing-taxonomies/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/nlp-mhealth-nursing-taxonomies/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/pt/research/nlp-mhealth-nursing-taxonomies/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/nlp-mhealth-nursing-taxonomies/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/nlp-mhealth-nursing-taxonomies/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/nlp-mhealth-nursing-taxonomies/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/en/research/component-based-framework-mhealth-apps/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/component-based-framework-mhealth-apps/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/component-based-framework-mhealth-apps/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/component-based-framework-mhealth-apps/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/pt/research/component-based-framework-mhealth-apps/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/component-based-framework-mhealth-apps/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/component-based-framework-mhealth-apps/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/component-based-framework-mhealth-apps/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/en/research/qualidade-aplicativos-saude-umars-personas/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/qualidade-aplicativos-saude-umars-personas/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/qualidade-aplicativos-saude-umars-personas/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/qualidade-aplicativos-saude-umars-personas/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/pt/research/qualidade-aplicativos-saude-umars-personas/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/qualidade-aplicativos-saude-umars-personas/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/qualidade-aplicativos-saude-umars-personas/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/qualidade-aplicativos-saude-umars-personas/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/en/research/mobilex-cross-platform-mobile-framework/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/mobilex-cross-platform-mobile-framework/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/mobilex-cross-platform-mobile-framework/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/mobilex-cross-platform-mobile-framework/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/pt/research/mobilex-cross-platform-mobile-framework/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/mobilex-cross-platform-mobile-framework/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/mobilex-cross-platform-mobile-framework/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/mobilex-cross-platform-mobile-framework/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/en/research/artificial-intelligence-discrimination/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/artificial-intelligence-discrimination/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/artificial-intelligence-discrimination/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/artificial-intelligence-discrimination/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/pt/research/artificial-intelligence-discrimination/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/artificial-intelligence-discrimination/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/artificial-intelligence-discrimination/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/artificial-intelligence-discrimination/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/en/research/executionflow-java-test-paths/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/executionflow-java-test-paths/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/executionflow-java-test-paths/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/executionflow-java-test-paths/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://williamniemiec.github.io/pt/research/executionflow-java-test-paths/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://williamniemiec.github.io/en/research/executionflow-java-test-paths/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://williamniemiec.github.io/pt/research/executionflow-java-test-paths/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://williamniemiec.github.io/en/research/executionflow-java-test-paths/" />
+<lastmod>2026-10-06T12:03:15.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 </urlset>
